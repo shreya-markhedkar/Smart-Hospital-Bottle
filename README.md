@@ -1,6 +1,8 @@
 # Smart-Hospital-Bottle-
-###Iot and Automation
-###Our solution
+
+##### Iot and Automation
+
+### Our solution
 Our solution is a reusable cap designed to work with IV bottles. The device is used to monitor patients' electrolyte levels in real-time and provide personalized care based on their individual needs. 
 
 The hospital will have a centralized control unit where they can access all data of each bottle through their unique ID. There is a customized app specially devised so that the individual personnel can access the information on the IV drip bottle level. The app provides insight on the level, real-time data with the entire history of the level of the IV drip.
