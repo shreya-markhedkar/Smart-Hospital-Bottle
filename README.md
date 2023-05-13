@@ -11,10 +11,10 @@ In case the level drops below the critical levels, an alert signal would be sent
 
 
 ### Technology used
-We used Firebase as our database and cloud to receive data and send data to mobile app using API. 
-We use Blynk for Application development. The app will include live status update, adding more devices or bottles, monitoring patient and push notifications for alerts. 
+We used **Firebase** as our database and cloud to receive data and send data to mobile app using **API**. 
+We use **Blynk** for Application development. The app will include live status update, adding more devices or bottles, monitoring patient and push notifications for alerts. 
 Arduino IDE will be used to communicate with the microcontroller, cloud and Thing-Speak will be used for live status visualisation of the data
-We use ESP32 Development Board with Wifi and Bluetooth as microcontroller to connect to the sensor and send data to the cloud.
+We use **ESP32** Development Board with Wifi and Bluetooth as microcontroller to connect to the sensor and send data to the cloud.
 Ultrasonic sensor which is a Level sensor is used for level measuring of the liquid irrespective of the type or density of liquid. This would be used to detect the distance at which the fluid is present. This would help in the continuous monitoring of fluid levels in the IV Bottle. 
 There is a buzzer included in the circuit to alert when the level is below the critical level 
 
